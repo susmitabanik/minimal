@@ -6,13 +6,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Agile Practitioner with a gamut of experience in the information technology and
+services industry, for over 14 years. Skilled in Servant-Leadership, Team,
+Vendor & Stakeholder relationship enhancement, Application Development
+Lifecycle and Product .
+Recently have become AI/ML enthusiast and I am deep diving into it.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Fraud Detection Project
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Fraud detection is defined as a process that detects scams and prevents fraudsters from obtaining money or property through false means. Fraud is a serious business risk that needs to be identified and mitigated in time.
 
 ## Header 2
 
